@@ -38,4 +38,7 @@ npm run dev
 
 8. Limpiar el localStorage del navegador.
 
-## Correr en prod
+## Stack usado
+- MongoDB
+- NextJS
+- Prisma
